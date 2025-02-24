@@ -1,0 +1,7 @@
+1,Pan Integral,40,2.5
+1,Pan Integral,50,2.5
+1,Pan Integral,50,2.5
+1,Pan Integral,50,2.5
+1,Pan Integral,50,2.5
+1,Pan Integral,50,2.5
+1,Pan Integral,50,2.5
